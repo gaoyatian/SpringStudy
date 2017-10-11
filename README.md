@@ -17,3 +17,7 @@ Spring 这个项目的主页是 https://projects.spring.io/spring-framework/
 
 从这里面我们可以看出 Bean, core, context 和 EL 是核心的包， logging和dom4j是xml解析和记录的包。
 
+我们可以使用如下的包来进行下载 spring 的 jar 包。
+
+[https://repo.spring.io/webapp/#/artifacts/browse/tree/General/libs-release-local/org/springframework/spring/4.3.2.RELEASE/spring-framework-4.3.2.RELEASE-schema.zip](https://repo.spring.io/webapp/#/artifacts/browse/tree/General/libs-release-local/org/springframework/spring/4.3.2.RELEASE/spring-framework-4.3.2.RELEASE-schema.zip "Spring Jar")
+
